@@ -1,0 +1,8 @@
+no1=int(input("enter the first value"))
+no2=int(input("enter the second value"))
+print("first value is",no1)
+print("secon value is",no2)
+print("addition of two value",no1+no2)
+print("subtrraction of two value",no1-no2)
+print("multiplication of two value",no1*no2)
+print("division of two value",no1/no2)
